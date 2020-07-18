@@ -49,7 +49,7 @@ export const DISHES: Dish[] = [
   name: 'Zucchipakoda',
   image: '/assets/images/zucchipakoda.png',
   category: 'appetizer',
-  featured: 'alse',
+  featured: 'false',
   label: '',
   price: '1.99',
   description: 'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce',
